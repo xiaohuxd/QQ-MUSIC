@@ -1,0 +1,82 @@
+[
+    {
+        "image": "/source/images/等.jpg",
+        "BG":"/source/images/陈奕迅_1.jpg",
+        "audio": "/source/mp3/等.mp3",
+        "lyric":"/source/lyric/等.lrc",
+        "song": "等",
+        "album": "DUO世界巡回演唱会",
+        "singer": "陈奕迅",
+        "duration": 255,
+        "isLike": true
+    },
+    {
+        "image": "/source/images/红尘客栈.jpg",
+        "BG":"/source/images/周杰伦_1.jpg",
+        "audio": "/source/mp3/红尘客栈.mp3",
+        "lyric":"/source/lyric/红尘客栈.lrc",
+        "song": "红尘客栈",
+        "album": "十二新作",
+        "singer": "周杰伦",
+        "duration": 274,
+        "isLike": false
+    },
+    {
+        "image": "/source/images/寂寞难耐.jpg",
+        "BG":"/source/images/李宗盛_1.jpg",
+        "audio": "/source/mp3/寂寞难耐.mp3",
+        "lyric":"/source/lyric/寂寞难耐.lrc",
+        "song": "寂寞难耐",
+        "album": "生命中的精灵",
+        "singer": "李宗盛",
+        "duration": 193,
+        "isLike": false
+    },
+    {
+        "image": "/source/images/喜帖街.jpg",
+        "BG":"/source/images/陈奕迅_1.jpg",
+        "audio": "/source/mp3/喜帖街.mp3",
+        "lyric":"/source/lyric/喜帖街.lrc",
+        "song": "喜帖街",
+        "album": "DUO世界巡回演唱会",
+        "singer": "陈奕迅",
+        "duration": 267,
+        "isLike": false
+    },
+    {
+        "image": "/source/images/小城大事.jpg",
+        "BG":"/source/images/张学友_1.jpg",
+        "audio": "/source/mp3/小城大事.mp3",
+        "lyric":"/source/lyric/寂寞难耐.lrc",
+        "song": "小城大事",
+        "album": "光年演唱会",
+        "singer": "张学友",
+        "duration": 234,
+        "isLike": false
+    },
+    {
+        "image": "/source/images/黑夜不再来.jpg",
+        "audio": "/source/mp3/黑夜不再来.mp3",
+        "BG":"/source/images/陈奕迅_1.jpg",
+        "lyric":"/source/lyric/黑夜不再来.lrc",
+        "song": "黑夜不再来",
+        "album": "Nothing Really Matters",
+        "singer": "陈奕迅",
+        "duration": 335,
+        "isLike": false
+    },
+    {
+        "image": "/source/images/流浪诗人.jpg",
+        "BG":"/source/images/周杰伦_1.jpg",
+        "audio": "/source/mp3/流浪诗人.mp3",
+        "lyric":"/source/lyric/流浪诗人.lrc",
+        "song": "流浪诗人",
+        "album": "魔杰座",
+        "singer": "周杰伦",
+        "duration": 169,
+        "isLike": false
+    }
+  
+   
+    
+]

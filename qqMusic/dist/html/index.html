@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>QQ Music</title>
+    <link rel="stylesheet" href="../style/index.css">
+    <style>
+        * {
+            /* transform: rotateZ() */
+            /* transition: all 1s ease-out */
+            /* transition:cubic-bezier(0.47, 0, 0.745, 0.715) */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="topBox"></div>
+        <div class="song-img">
+            <div class="img-box" data-deg=0>
+                <img src="" alt="">
+            </div>
+        </div>
+        <div class="song-info">
+            <!-- 动态渲染歌曲信息 -->
+            <!--专辑名 -->
+        </div>
+        <div class="lyric">动态渲染歌词</div>
+        <div class="pro">
+            <div class="cur-time">00:00</div>
+            <div class="pro-wrap">
+                <div class="pro-bottom"></div>
+                <div class="pro-top">
+                    <div class="slider"></div>
+                </div>
+            </div>
+            <div class="all-time">04:31</div>
+        </div>
+        <div class="control">
+            <div class="btn btn_like"></div>
+            <div class="btn btn_prev"></div>
+            <div class="btn btn_play"></div>
+            <div class="btn btn_next"></div>
+            <div class="btn btn_list">
+                <div class="btn_list_child">
+                    <div class="list_nav"></div>
+                    <div class="list_song">
+                        <ul class="list_song_list">
+                        </ul>
+                    </div>
+                    <div class="list_close">关闭</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src='../js/zepto.min.js'></script>
+    <!-- <script src='../js/gaussBlur.js'></script> -->
+    <script src='../js/render.js'></script>
+    <script src='../js/audioControl.js'></script>
+    <script src='../js/indexOfControl.js'></script>
+    <script src='../js/pro.js'></script>
+    <script src='../js/index.js'></script>
+
+</body>
+
+</html>
